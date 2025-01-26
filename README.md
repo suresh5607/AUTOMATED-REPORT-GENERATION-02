@@ -13,3 +13,7 @@
 **MENTOR NAME**: Neela Santhosh Kumar
 
 # ENTER DESCRIPTIONS OF TASK PERFORMED NOT LESS THAN 500 WORDS
+
+# OUT PUT OF THE TASK
+
+[README (3).md](https://github.com/user-attachments/files/18549056/README.3.md)
